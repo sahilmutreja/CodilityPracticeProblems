@@ -42,8 +42,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Solution1.cs" />
+    <Compile Include="Base.cs" />
+    <Compile Include="MaxOccurrenceInArray.cs" />
+    <Compile Include="CountGap.cs" />
+    <Compile Include="FlipCoinMaxCount.cs" />
+    <Compile Include="FrogJumps.cs" />
+    <Compile Include="MissingNumberInArray.cs" />
+    <Compile Include="OddOccurrencesInArray.cs" />
+    <Compile Include="RotateArray.cs" />
+    <Compile Include="Solution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TapeEquilibrium.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
